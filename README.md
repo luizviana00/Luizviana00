@@ -1,16 +1,16 @@
 <h1 align="center">✨ Bem-vindo ao meu GitHub ✨</h1>
-<h3 align="center">Sou Luiz Viana — desenvolvedor apaixonado por tecnologia e inovação</h3>
+<h3 align="center"> 🙋‍♂️ Sou Luiz Viana — desenvolvedor apaixonado por tecnologia e inovação🚀</h3>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim 🎯
 - 🔭 Atualmente trabalhando em projetos pessoais e colaborativos  
 - 🌱 Aprendendo **React, Node.js e Inteligência Artificial**  
 - 🎯 Objetivo: Criar soluções úteis, elegantes e acessíveis  
 - ⚡ Curiosidade: Amo unir criatividade + código.
 ✨ Sou apaixonado por **tecnologia, design e inovação**.  
 Atualmente estudo e desenvolvo projetos que unem **frontend (HTML, CSS, JavaScript)** com **backend (Node.js e Python)**.  
-Meu objetivo é **criar soluções que impactem positivamente pessoas e negócios**.  
+Meu objetivo é **criar soluções que impactem positivamente pessoas e negócios 🏆 🥇 🎯**.  
 
 
 
