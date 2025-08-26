@@ -84,6 +84,11 @@ Meu objetivo é **criar soluções que impactem positivamente pessoas e negócio
 </a>
    ### Redes Sociais
 
+## 🌐 Conecte-se comigo
+
+| Instagram | Facebook |
+|-----------|----------|
+| [![Instagram](https://img.shields.io/badge/-Siga_%20Luiz%20Viana-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizcarlos.f.viana/) | [![Facebook](https://img.shields.io/badge/-Siga_%20Luiz%20Viana-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/LuizViana007/?locale=pt_BR) |
 
 
 </p>
