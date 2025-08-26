@@ -71,7 +71,7 @@ Meu objetivo é **criar soluções que impactem positivamente pessoas e negócio
 
 ## 🌐 Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/luiz-viana"target="_blank">
+  <a href="www.linkedin.com/in/luiz-viana1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="https://github.com/LuizViana">
