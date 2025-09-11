@@ -4,6 +4,7 @@
 ---
 
 ## 👨‍💻 Sobre mim 🎯
+##
 - 🔭 Atualmente trabalhando em projetos pessoais e colaborativos  
 - 🌱 Aprendendo **React, Node.js e Inteligência Artificial**  
 - 🎯 Objetivo: Criar soluções úteis, elegantes e acessíveis  
