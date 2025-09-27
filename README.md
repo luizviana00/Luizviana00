@@ -9,9 +9,9 @@
 - 🌱 Aprendendo **React, Node.js e Inteligência Artificial**  
 - 🎯 Objetivo: Criar soluções úteis, elegantes e acessíveis  
 - ⚡ Curiosidade: Amo unir criatividade + código.
-✨ Sou apaixonado por **tecnologia, design e inovação**.  
-Atualmente estudo e desenvolvo projetos que unem **frontend (HTML, CSS, JavaScript)** com **backend (Node.js e Python)**.  
-Meu objetivo é **criar soluções que impactem positivamente pessoas e negócios 🏆 🥇 🎯**.  
+- ✨ Sou apaixonado por **tecnologia, design e inovação**.  
+      Atualmente estudo e desenvolvo projetos que unem **frontend (HTML, CSS, JavaScript)** com **backend (Node.js e Python)**.  
+      Meu objetivo é **criar soluções que impactem positivamente pessoas e negócios 🏆 🥇 🎯**.  
 
 
 
