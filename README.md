@@ -66,7 +66,9 @@ Meu objetivo é **criar soluções que impactem positivamente pessoas e negócio
 ## 📂 Projetos em Destaque
 - 🔗 [Portfólio Pessoal](#)  
 - 🔗 [Projeto de Automação com Node.js](#)  
-- 🔗 [App React Experimental](#)  
+- 🔗 [App React Experimental](#)
+- 🔗 [ Angular Experimental](#)
+  
 
 ---
 
