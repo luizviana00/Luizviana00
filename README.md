@@ -53,13 +53,11 @@
 
 ## 💼 Conecte-se Comigo
 
-<p align="center">
-  ## 🌐 Conecte-se comigo
+<p align="center"> 
 
 | Instagram | Facebook |
 |-----------|----------|
-| [![Instagram](https://img.shields.io/badge/-Siga_%20Luiz%20Viana-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizcarlos.f.viana/) | [![Facebook](https://img.shields.io/badge/-Siga_%20Luiz%20Viana-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/LuizViana007/?locale=pt_BR) |
-<p align="center">
+| [![Instagram](https://img.shields.io/badge/-Siga_%20Luiz%20Viana-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizcarlos.f.viana/) | [![Facebook](https://img.shields.io/badge/-Siga_%20Luiz%20Viana-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/LuizViana007/?locale=pt_BR)
   <a href="https://www.linkedin.com/in/luiz-viana1/" target="_blank" rel="external" >
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
@@ -74,7 +72,7 @@
 ## 🖥️ Um pouco de energia visual ⚡
 
 <p align="center">
-  <img src="github-64.png" width="150" alt="Coding animation" />
+  <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>
 </p>
 
 ---
@@ -93,7 +91,7 @@
   <img src="Luiz viana.jpg" width="120" style="border-radius: 50%; box-shadow: 0 0 10px #aff311ff;" alt="Luiz Viana Avatar"/>
 </p>
 
-<h3 align="center">🌟 Feito com muito ❤️ e café ☕ por <strong>Luiz Viana</strong> 🌟</h3>
+<h3 align="center">🌟 Feito com muito carinho e café ☕ por <strong>Luiz Viana</strong> 🌟</h3>
 
 
 
