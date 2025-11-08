@@ -88,7 +88,7 @@
 <h3 align="center">💫 “Códigos são linhas de imaginação transformadas em realidade.” 💫</h3>
 
 <p align="center">
-  <img src="Luiz viana.jpg" width="120" style="border-radius: 50%; box-shadow: 0 0 10px #aff311ff;" alt="Luiz Viana Avatar"/>
+  <img width="100" height="100" src="https://img.icons8.com/external-simple-solid-edt.graphics/100/external-student-avatars-simple-solid-edt.graphics.png" alt="external-student-avatars-simple-solid-edt.graphics"/>
 </p>
 
 <h3 align="center">🌟 Feito com muito carinho e café ☕ por <strong>Luiz Viana</strong> 🌟</h3>
