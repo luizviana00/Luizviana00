@@ -72,7 +72,7 @@
 ## 🖥️ Um pouco de energia visual ⚡
 
 <p align="center">
-  <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>
+ <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
 </p>
 
 ---
@@ -88,9 +88,7 @@
 <h3 align="center">💫 “Códigos são linhas de imaginação transformadas em realidade.” 💫</h3>
 
 <p align="center">
-  <img width="100" height="100" src="https://img.icons8.com/external-simple-solid-edt.graphics/100/external-student-avatars-simple-solid-edt.graphics.png" alt="external-student-avatars-simple-solid-edt.graphics"/>
-</p>
-
+  <img width="100" height="100" src="https://img.icons8.com/plasticine/100/user.png" alt="user"/>
 <h3 align="center">🌟 Feito com muito carinho e café ☕ por <strong>Luiz Viana</strong> 🌟</h3>
 
 
