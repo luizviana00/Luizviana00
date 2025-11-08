@@ -47,6 +47,16 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizviana&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizviana&layout=compact&theme=radical" />
+  
+  ## 📊 Estatísticas de Luiz Viana 
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/26b204d0-7b3f-45ed-844f-1163457b1a2a" />
+
+
+🧠 **Conhecimento:** ████████████████░░░░░░ 40%  
+💻 **Projetos:** ██████████████████████░░░ 29%
+
+> Desenvolvendo sempre mais! 🚀
+
 </p>
 
 ---
