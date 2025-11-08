@@ -89,6 +89,8 @@
 
 <p align="center">
   <img width="100" height="100" src="https://img.icons8.com/plasticine/100/user.png" alt="user"/>
+  <img width="100" height="100" src="https://img.icons8.com/bubbles/100/trophy.png" alt="trophy"/>
+  <img width="100" height="100" src="https://img.icons8.com/bubbles/100/earth-planet.png" alt="earth-planet"/>
 <h3 align="center">🌟 Feito com muito carinho e café ☕ por <strong>Luiz Viana</strong> 🌟</h3>
 
 
