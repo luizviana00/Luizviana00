@@ -52,12 +52,12 @@
 ---
 
 ## 💼 Conecte-se Comigo
-
-<p align="center"> 
-
 | Instagram | Facebook |
-|-----------|----------|
-| [![Instagram](https://img.shields.io/badge/-Siga_%20Luiz%20Viana-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizcarlos.f.viana/) | [![Facebook](https://img.shields.io/badge/-Siga_%20Luiz%20Viana-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/LuizViana007/?locale=pt_BR)
+<p align="center"> 
+  
+
+
+ [![Instagram](https://img.shields.io/badge/-Siga_%20Luiz%20Viana-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizcarlos.f.viana/)[![Facebook](https://img.shields.io/badge/-Siga_%20Luiz%20Viana-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/LuizViana007/?locale=pt_BR)
   <a href="https://www.linkedin.com/in/luiz-viana1/" target="_blank" rel="external" >
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
